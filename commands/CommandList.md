@@ -1,7 +1,7 @@
 ##Commands for w:
 
 ###'ls':  List
-	lists the contents of folder.
+	Lists the contents of folder.
 
 ###'pwd':  print present location
 	Shows current directory.

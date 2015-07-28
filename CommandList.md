@@ -12,6 +12,9 @@
 ###`cd`: change directory
 	Lets you change directory.
 
+###'cd ..' : back out
+	Allows you to got back a directory.
+
 ###`touch`: make file
 	Allows you to create a file.
 
@@ -25,4 +28,13 @@
 	keep trakc of changes to a directory.
 
 ###`git status`: check status
-	check status. 
+	check status.
+
+###'git add Filename.filetype': add file to git
+	add lastest version of file.
+
+###'git commit -m "Message"': Commit changes
+	Commits changed made to files.
+
+###'git diff': checks differences
+	Checks differences in the current git logs for files added to the current git section.
